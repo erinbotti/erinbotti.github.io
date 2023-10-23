@@ -166,7 +166,7 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /latest news/:path/
+    permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
@@ -405,6 +405,9 @@ jekyll_get_json:
 jsonresume:
   - basics
   - work
+  - researchexperience
+  - teachingexperience
+  - industryexperience
   - education
   - publications
   - projects
