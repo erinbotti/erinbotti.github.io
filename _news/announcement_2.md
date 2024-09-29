@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-Our paper [Investigating the Impact of Experience on a User’s Ability to Perform Hierarchical Abstraction](https://roboticsconference.org/program/papers/004/) was nominated for Best Student Paper at RSS 2023. 
+Our paper [Investigating the Impact of Experience on a User’s Ability to Perform Hierarchical Abstraction](https://roboticsconference.org/2023/program/papers/004/) was nominated for Best Student Paper at RSS 2023. 
 
 <!-- ---
 layout: post
