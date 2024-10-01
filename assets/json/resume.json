@@ -1,8 +1,9 @@
 {
   "basics": {
     "header": "Basics",
-    "Name": "Erin Botti",
-    "Title": "Robotics PhD",
+    "Name:": "Erin Botti",
+    "Title:": "Robotics PhD",
+    "Specialties:": "Machine Learning, Human-Robot Interaction",
     "image": ""
   },
   "education": [
