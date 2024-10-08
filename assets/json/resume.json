@@ -32,6 +32,27 @@
       "area": "Study abroad program; completed Spanish-language cultural and engineering classes"
     }
   ],
+  "skills": [
+    {
+    "header": "Skills",
+    "name": "Programming Languages",
+    "keywords": "Python, Java, R, MATLAB, C, C++, SQL, JavaScript"
+    },
+    {"header": "Skills",
+    "name": "Tools & Libraries",
+    "keywords": "Pytorch, ROS, ROS2, Scikit-learn, CUDA, Linux, Git, Jupyter Notebook, Pandas, Numpy, Matplotlib, AWS, Azure, Neo4j, Flask"
+    },
+    {
+    "header": "Skills",
+    "name": "Machine Learning & Artificial Intelligence",
+    "keywords": "Deep Learning, Imitation Learning, Meta-Learning,  Reinforcement Learning, Explainable AI (xAI), Neural Networks, Long Short-term Memory (LSTM), Transformers, Decision Trees, Search Algorithms, Clustering, Classification, Regression"
+    },
+    {
+      "header": "Skills",
+      "name": "Data Analysis",
+      "keywords": "Quantitative Analysis, Qualitative Analysis, Statistics and Probability, User Studies"
+      }
+  ],
   "researchexperience": [
     {
       "header": "Research Experience",
@@ -42,12 +63,12 @@
       "summary": "CORE Robotics Lab, Advisor: Matthew Gombolay",
       "highlights": [
        "`Machine Learning Projects`",
-       "Developed LIFI, a novel frawmework, that learns interpretable features from human interventions using a multi-head attention network. LIFI significantly outperforms baselines for trajectory accuracy and human trust, workload, and usability.", 
-       "Designed the MIND MELD architecture using mutual information and variational inference. MIND MELD improves learning from demonstration with suboptimal demonstrators and outperforms baselines for accuracy and human trust and workload [HRI 2022].",
-       "Created Reciprocal MIND MELD, which learns an embedding for teacher suboptimality and enables the robot teach the person to be a better demonstrator. Reciprocal MIND MELD also models how the teacher's embedding changes over time [CoRL 2022].",
+       "LIFI Framework: Designed, trained, and tested a multi-head attention network, improving imitation learning and xAI. LIFI learns interpretable features from human interventions and significantly outperforms baselines for  accuracy, trust, workload, and usability.",
+       "MIND MELD Architecture: Advanced  imitation learning by integrating LSTMs, mutual information, and variational inference to  learn from suboptimal demonstrators. MIND MELD  outperforms baselines for accuracy, human trust, and workload [HRI 2022].",
+       "Reciprocal MIND MELD: Created an LSTM-based system to generate personalized explanations that teach users how to provide better demonstrations. Reciprocal MIND MELD automates training demonstrators and  models the user's behavior changes  [CoRL 2022].",
        "Implemented full stack learning frameworks on robots and driving simulators using ROS, ROS2, Pytorch, and Python [RSS 2024, CoRL 2022, HRI 2022].", 
        "`User Study Experiments`",
-       "Designed, built, and executed human-subjects experiments to investigate how people respond to different algorithms and technical systems with respect to trust, workload, and user satisfaction.",
+       "Designed, built, and executed human-subjects experiments to study user reactions to algorithms and technical systems with respect to trust, workload, and user satisfaction.",
        "Performed advanced statistics and analytics on experiment data to validate hypotheses.",
        "Conducted user studies with target populations, including older adults and people with mild cognitive impairment to understand diverse preferences.",
        "Supervised and mentored junior lab members in designing experiments, writing papers, and lab best practices."
@@ -140,17 +161,6 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [
-    {
-    "header": "Skills",
-    "name": "Technologies",
-    "keywords": "Python, Pytorch, ROS, Java, C, R, MATLAB, SQL, Neo4j, CUDA, Flask, Linux, Git, JavaScript"
-    },
-    {"header": "Skills",
-    "name": "Proficiences",
-    "keywords": "Machine Learning (Supervised and Unsupervised Learning, Reinforcement Learning, Deep Learning, Imitation Learning), Artificial Intelligence (Search Algorithms, Clustering, Classification, Regression), User Studies, Robotics, Signal Processing, Statistics and Probability, System Engineering, Project Management, Algorithms and Data Structures" 
-    } 
-  ],
   "languages": [
     {
       "header": "Languages",
