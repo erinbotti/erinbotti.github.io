@@ -1304,3 +1304,50 @@ ninja-keys::part(ninja-input-wrapper) {
   background-color: var(--global-theme-color);
   color: var(--global-text-color);
 }
+
+
+.btn-project { 
+  color: var(--global-theme-color); 
+  background-color: var(--global-bg-color); 
+  border-color: var(--global-theme-color); 
+} 
+ 
+.btn-project:hover, 
+.btn-project:focus, 
+.btn-project:active, 
+.btn-project.active, 
+.open .dropdown-toggle.btn-project { 
+  color: var(--global-theme-color); 
+  background-color: #c5e7e2; 
+  border-color: var(--global-theme-color); 
+} 
+ 
+.btn-project:active, 
+.btn-project.active, 
+.open .dropdown-toggle.btn-project { 
+  background-image: none; 
+} 
+ 
+.btn-project.disabled, 
+.btn-project[disabled], 
+fieldset[disabled] .btn-project, 
+.btn-project.disabled:hover, 
+.btn-project[disabled]:hover, 
+fieldset[disabled] .btn-project:hover, 
+.btn-project.disabled:focus, 
+.btn-project[disabled]:focus, 
+fieldset[disabled] .btn-project:focus, 
+.btn-project.disabled:active, 
+.btn-project[disabled]:active, 
+fieldset[disabled] .btn-project:active, 
+.btn-project.disabled.active, 
+.btn-project[disabled].active, 
+fieldset[disabled] .btn-project.active { 
+  background-color: var(--global-bg-color); 
+  border-color: var(--global-theme-color); 
+} 
+ 
+.btn-project .badge { 
+  color: var(--global-bg-color); 
+  background-color: var(--global-theme-color); 
+}
