@@ -5,7 +5,7 @@ subtitle: Mutual Information Driven Meta-Learning from Demonstration
 description: A machine learning framework for robots to learn from suboptimal human demonstrators 
 img: assets/img/MINDMELD_Network.png
 importance: 1
-category: work
+category: 
 related_publications: true
 ---
 

@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here is a sample of the research I conducted during my PhD.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: 
 horizontal: false
 ---
 
